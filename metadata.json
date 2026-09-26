@@ -1,0 +1,6 @@
+{
+  "name": "Kettlebell Coach 40+",
+  "description": "Персональний план тренувань, кардіо, промивка м'язів, ізометрія Засса, таймер Табата та наукова база знань для 40+",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
